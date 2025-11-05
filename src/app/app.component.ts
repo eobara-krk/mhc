@@ -148,7 +148,13 @@ toggleImage(item: Item) {
   item.fullscreen = !item.fullscreen;
 }
 
-  closePage() {
-    window.close();
-  }
-}
+closePage() {
+  // Próba zamknięcia okna
+  window.close();
+
+  // Jeśli okno nadal jest otwarte (np. nie zostało otwarte przez JS),
+  // to przekieruj na pustą stronę
+  setTimeout(() => {
+    window.location.href = 'about:blank';
+  }, 100);
+}}
