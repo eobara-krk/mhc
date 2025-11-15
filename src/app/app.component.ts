@@ -73,7 +73,9 @@ export class AppComponent {
           show: false,
           protected: true,
           type: 'opis'
-        }
+        },
+         { name: 'Tomek01', url:'https://drive.google.com/file/d/1p9TIDkvwhFM0wgQ76h9f_mZS723ATw5V/view?usp=sharing', type: 'film'},
+
       ]
     }
         
