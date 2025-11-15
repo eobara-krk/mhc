@@ -67,6 +67,7 @@ export class AppComponent {
         { name: 'exercise 8c', url:'https://drive.google.com/file/d/1NxTPKMB_Bt2NUI6QtpyUg9xTjyThazbN/view?usp=sharing', type: 'pdfy'},    
        
         { name: 'instalacja', url:'https://drive.google.com/file/d/1D21XtIlQ_QEhq-p5P-tMLflPUQDuSAdV/view?usp=sharing', type: 'exec'},
+        { name: 'Logowanie', url:'https://photos.app.goo.gl/fS8FrRoGhrEWHvkF9', type: 'photo'},
 
         { name: 'klucz', 
           text: `Login:elzbieta.obara@kruksa.pl; Hasło:1234567ABcd`,
