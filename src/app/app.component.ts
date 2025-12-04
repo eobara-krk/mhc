@@ -76,6 +76,7 @@ export class AppComponent {
           type: 'opis'
         },
          { name: 'Tomek01', url:'https://drive.google.com/file/d/1p9TIDkvwhFM0wgQ76h9f_mZS723ATw5V/view?usp=sharing', type: 'film'},
+         { name: 'MM01', url:'https://drive.google.com/file/d/1D21XtIlQ_QEhq-p5P-tMLflPUQDuSAdV/view?usp=sharing', type: 'film'},
 
       ]
     }
