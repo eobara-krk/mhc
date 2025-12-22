@@ -79,7 +79,7 @@ export class AppComponent {
          { name: 'MM01', url:'https://drive.google.com/file/d/1lbGgR-Msi2Tr6NcyBgAEFod6yElmkz3o/view?usp=sharing', type: 'film'},
          { name: 'MM02', url:'https://drive.google.com/file/d/1xR4a3pVDW19CwSUP2qjW089EDE_TRcJD/view?usp=sharing', type: 'film'},
          { name: '2025-12-08 demo MHC', url:'https://krukeu-my.sharepoint.com/:v:/r/personal/alexandru_oprea_kruk_com_ro/Documents/%C3%8Enregistr%C4%83ri/DEMO%20-%20Legal%20%26%20Automation%20Tribe%20Products-20251208_100202-Meeting%20Recording.mp4?csf=1&web=1&e=pJ3fWy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D', type: 'film'},
-        { name: '2025-12-18 spotkanie z architektem cst', url:'https://krukeu-my.sharepoint.com/:v:/r/personal/krzysztof_krzywdzinski_kruksa_pl/Documents/Recordings/Jak%20dzia%C5%82a%20template%20manager%20-%20szkolenie-20251218_130321-Nagrywanie%20spotkania.mp4?csf=1&web=1&e=IA4k3f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D', type: 'film'},
+         { name: '2025-12-18 spotkanie z architektem cst', url:'https://drive.google.com/file/d/1weMwQuxQGADvoblAWQsGe-DdC3JoCnfM/view?usp=sharing', type: 'film'},
          
       ]
     }
