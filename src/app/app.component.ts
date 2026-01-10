@@ -66,24 +66,12 @@ export class AppComponent {
         { name: 'exercise 8b', url:'https://drive.google.com/file/d/16qucFJyZaqHOiz8qkPHOV8s8JbsuVo1r/view?usp=sharing', type: 'pdfy'},
         { name: 'exercise 8c', url:'https://drive.google.com/file/d/1NxTPKMB_Bt2NUI6QtpyUg9xTjyThazbN/view?usp=sharing', type: 'pdfy'},    
        
-        { name: 'instalacja', url:'https://drive.google.com/file/d/1D21XtIlQ_QEhq-p5P-tMLflPUQDuSAdV/view?usp=sharing', type: 'exec'},
-        { name: 'Logowanie', url:'https://photos.app.goo.gl/fS8FrRoGhrEWHvkF9', type: 'photo'},
 
-        { name: 'klucz', 
-          text: `Login:elzbieta.obara@kruksa.pl; Hasło:1234567ABcd`,
-          show: false,
-          protected: true,
-          type: 'opis'
-        },
          { name: 'Tomek01', url:'https://drive.google.com/file/d/1p9TIDkvwhFM0wgQ76h9f_mZS723ATw5V/view?usp=sharing', type: 'film'},
          { name: 'MM01', url:'https://drive.google.com/file/d/1lbGgR-Msi2Tr6NcyBgAEFod6yElmkz3o/view?usp=sharing', type: 'film'},
-         { name: 'MM02', url:'https://drive.google.com/file/d/1xR4a3pVDW19CwSUP2qjW089EDE_TRcJD/view?usp=sharing', type: 'film'},
-         { name: '2025-12-08 demo MHC', url:'https://krukeu-my.sharepoint.com/:v:/r/personal/alexandru_oprea_kruk_com_ro/Documents/%C3%8Enregistr%C4%83ri/DEMO%20-%20Legal%20%26%20Automation%20Tribe%20Products-20251208_100202-Meeting%20Recording.mp4?csf=1&web=1&e=pJ3fWy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D', type: 'film'},
-         { name: '2025-12-18 spotkanie z architektem cst', url:'https://drive.google.com/file/d/1weMwQuxQGADvoblAWQsGe-DdC3JoCnfM/view?usp=sharing', type: 'film'},
-         
+         { name: 'MM02', url:'https://drive.google.com/file/d/1xR4a3pVDW19CwSUP2qjW089EDE_TRcJD/view?usp=sharing', type: 'film'}, 
       ]
-    }
-        
+    }     
   ];
 
  private readonly summaryPassword = 'syn';
